@@ -1,9 +1,9 @@
-<h2 align="centre">🎧SHARK MUSIIC 🎧</h2>
+<h2 align="centre">🎧God Zilla Music 🎧</h2>
 
 ### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ'ꜱ ᴠᴏɪᴄᴇ ᴄᴀʟʟ
 
 <p align="center">
-  <img src="https://telegra.ph/file/4eca54010caa0e902c024.jpg">
+  <img src="https://telegra.ph/file/9cbc470361d534733b14c.jpg">
 </p>
 
 <h3>Requirements 📝</h3>

@@ -1,9 +1,9 @@
-<h2 align="centre">🎧ꜱᴀɴᴋɪ ᴍᴜꜱɪᴄ ʙᴏᴛ 🎧</h2>
+<h2 align="centre">🎧SHARK MUSIIC 🎧</h2>
 
 ### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ'ꜱ ᴠᴏɪᴄᴇ ᴄᴀʟʟ
 
 <p align="center">
-  <img src="https://telegra.ph/file/bface56c03fca8b80c869.png">
+  <img src="https://telegra.ph/file/4eca54010caa0e902c024.jpg">
 </p>
 
 <h3>Requirements 📝</h3>

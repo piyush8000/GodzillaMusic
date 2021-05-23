@@ -1,8 +1,8 @@
 {
-  "name": "SHARK MUSIC BOT",
+  "name": "GODZILLA MUSIC BOT",
   "description": "ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ꜱᴏɴɢꜱ ɪɴ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ'ꜱ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ. ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʏᴛɢᴄᴀʟʟꜱ.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/LiveToLife/Sharkmusiic",
+  "repository": "https://github.com/piyush8000/GodzillaMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
